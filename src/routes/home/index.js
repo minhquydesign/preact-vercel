@@ -3,8 +3,8 @@ import style from './style';
 
 const Home = () => (
   <div class={style.home}>
-    <h1>Home</h1>
-    <p>This is the Home component.</p>
+    <h1>Trang chủ</h1>
+    <p>Đây là thành phần Home.compoment</p>
   </div>
 );
 
