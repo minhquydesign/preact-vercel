@@ -1,15 +1,3 @@
-![Preact Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/preact.svg)
-
-# Preact Example
-
-This directory is a brief example of a [Preact](https://preactjs.com/) app that can be deployed with Vercel and zero configuration.
-
-## Deploy Your Own
-
-Deploy your own Preact project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/preact&template=preact)
-
 _Live Example: https://mqd-preact.vercel.app/
 
 ### How We Created This Example
